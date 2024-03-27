@@ -11,6 +11,6 @@ ShareDiary 2.0
 자세한 사항은 블로그에 기재할 예정.
 ShareDiary 3.0에서 보완할 것을 기약하며...
 
-https://sharediary2.vercel.app/diary
+https://sharediary2.vercel.app
 
 !!!
